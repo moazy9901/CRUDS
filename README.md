@@ -1,4 +1,4 @@
-##CRUD System – HTML, Bootstrap, JavaScript & LocalStorage
+#CRUD System – HTML, Bootstrap, JavaScript & LocalStorage
 
 A simple and responsive CRUD (Create, Read, Update, Delete) system built using HTML, Bootstrap, and Vanilla JavaScript, with LocalStorage used as a lightweight client-side database.
 
