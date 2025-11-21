@@ -1,35 +1,33 @@
 CRUD System – HTML, Bootstrap, JavaScript & LocalStorage
 
-A simple and responsive CRUD (Create, Read, Update, Delete) system built using HTML, Bootstrap, and Vanilla JavaScript, with LocalStorage as a lightweight in-browser database.
+A simple and responsive CRUD (Create, Read, Update, Delete) system built using HTML, Bootstrap, and Vanilla JavaScript, with LocalStorage used as a lightweight client-side database.
 
 🔗 Live Demo:
-https://moazy9901.github.io/CRUDS/
+👉 https://moazy9901.github.io/CRUDS/
 
-A simple CRUDS system you can try directly in your browser.
+📌 Features
 
-🚀 Features
+✔️ Create new records
 
-✔️ Add new records
+✔️ Read and display data in a Bootstrap table
 
-✔️ Display data in a responsive Bootstrap table
-
-✔️ Edit existing records
+✔️ Update existing records
 
 ✔️ Delete single items
 
-✔️ Delete all data
+✔️ Delete all items
 
-✔️ Persistent storage using LocalStorage
+✔️ Persistent data using LocalStorage
 
-✔️ Fully responsive layout (Bootstrap 5)
+✔️ Fully responsive UI
 
-✔️ No backend required — runs entirely in the browser
+✔️ Works entirely in the browser — no backend required
 
 📂 Project Structure
-/project-folder
+CRUDS/
 │── index.html
 │── script.js
-│── style.css (optional)
+│── style.css
 │── README.md
 
 🛠️ Technologies Used
@@ -42,20 +40,17 @@ JavaScript (ES6)
 
 LocalStorage API
 
-📥 Installation & Usage
-
-Clone the repo:
-
+🚀 Installation & Usage
+1. Clone the repository
 git clone https://github.com/moazy9901/CRUDS.git
 
-
-Open the folder:
-
+2. Open the project folder
 cd CRUDS
 
+3. Run the project
 
-Run the app:
-Simply open index.html in your browser — no server needed.
+Open index.html in your browser — no server needed.
 
-Or try the live demo directly:
-👉 https://moazy9901.github.io/CRUDS/
+Or try the live demo
+
+🔗 https://moazy9901.github.io/CRUDS/
